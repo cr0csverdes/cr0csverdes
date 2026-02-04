@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hola ke tal
 
-<!--
-**cr0csverdes/cr0csverdes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aprendiendo a usar esta *herramienta **loka***
 
-Here are some ideas to get you started:
+Receta de aguachile:
+1. limón
+2. camarones
+3. chiles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi comida favorita es el **aguachile** siempre que tenga la oportunidad, comeré aguachile. 
+
+*Nací por mi madre y moriré por el aguachile*
+
+**i love aguachile**
+
+Lugares que visité en vacaciones:
+
+1. Tokio
+2. Osaka
+3. Naoshima Island
+4. Kioto
+5. Tokio
+
+
+
+
